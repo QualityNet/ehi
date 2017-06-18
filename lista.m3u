@@ -1,0 +1,550 @@
+﻿#EXTM3U
+
+#PLAYLISTV: pltv-logo="https://s27.postimg.org/wxjtppzo3/Slide1.jpg" pltv-name="JUNIOR TV" pltv-description=TV ONLINE para PlaylisTV/IPTV" pltv-cover="https://s27.postimg.org/wxjtppzo3/Slide1.jpg" pltv-author="júnior" pltv-site="" pltv-email="" pltv-phone="( つ•̀ω•́)つ ฅ(<ω>*ฅ)
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://seeklogo.com/images/G/globo-logo-486706AB94-seeklogo.com.png" group-title="CANAL ABERTO", Globo Nordeste
+http://tv.ec.cx:1935/redecanais-stream-bobo/myStream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://seeklogo.com/images/G/globo-logo-486706AB94-seeklogo.com.png" group-title="CANAL ABERTO", Globo RJ
+http://95.141.32.136:8081/look/sptv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/SBT-HD.png" group-title="CANAL ABERTO", SBT
+http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream1/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/SBT-HD.png" group-title="CANAL ABERTO", SBT.
+http://evp.mm.uol.com.br/ne10//ne10-tvjornal-recife-video-web.sdp/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/SBT-HD.png" group-title="CANAL ABERTO", SBT SP
+http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream2/live.m3u8
+
+#EXTINF:-1 tvg-id="SBT [Brazil]" tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="CANAL ABERTO",SBT SP
+http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SBT [Brazil]" tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="CANAL ABERTO",SBT SC
+http://srv6.zoeweb.tv:1935/z343-live/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SBT [Brazil]" tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="CANAL ABERTO",SBT PI
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SBT [Brazil]" tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="CANAL ABERTO",SBT PB
+http://tv.paraibahost.com.br:1935/tvtambau/tvtambau/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SBT [Brazil]" tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="CANAL ABERTO",SBT Recife
+http://evp.mm.uol.com.br:1935/ne10/ne10-tvjornal-recife-video-mobile.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SBT [Brazil]" tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="CANAL ABERTO",SBT Caruaru
+http://evp.mm.uol.com.br:1935/ne10/_definst_/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Band Rede [Brazil]" tvg-logo="http://s6.postimg.org/ttsxgsc1t/band.png" group-title="CANAL ABERTO",Band SP
+http://95.141.32.213:8081/look/band/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Rede-TV-HD.png" group-title="CANAL ABERTO", Rede tv
+http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://s12.postimg.org/z7f0jjck9/gazeta2.png" group-title="CANAL ABERTO", Tv Gazeta
+http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://s15.postimg.io/ri5kwmjvr/tvescola2.png" group-title="CANAL ABERTO", Tv Escola
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvsindeepres.org.br/tv/wp-content/uploads/2014/08/logo-tvsindeepres.png" group-title="CANAL ABERTO", Tv Sindeepres
+http://v.pool.us.wse-1.srvstream.com:1935/fx7-live/smil:tvsindeepres.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Record-SP.png" group-title="CANAL ABERTO", Record
+http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/chunklist_w1068721152.m3u8
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Record-SP.png" group-title="CANAL ABERTO", Record RJ
+http://5.79.68.138:8081/look/record/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Record-SP.png" group-title="CANAL ABERTO", Record ES
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Record-SP.png" group-title="CANAL ABERTO", Record SP
+http://95.211.149.215:8081/look/record/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Record-SP.png" group-title="CANAL ABERTO", Record SP SD
+http://calertahls-lh.akamaihd.net/i/calertahls_1@167570/master.m3u8
+
+EXTINF:-1 tvg-logo="http://app.daplay.org/assets/uploads/images/Untitled-161.png" group-title="CANAL ABERTO",FUTURA
+http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/manifest(format=m3u8-aapl).m3u8
+
+#EXTINF:-1 tvg-logo="http://www.fuca.org.br/wp-content/uploads/2016/07/WebTvLogo2.png" group-title="CANAL ABERTO", Tv Web
+http://wse3.player.tv.br:1935/tvwebparana/tvwebparana/live.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CANAL ABERTO",WebTV Rede Evangelizar
+http://wse6.player.tv.br:1935/tmc/tmc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CANAL ABERTO",TV Web Guarani
+http://wse.stmip.in:1935/rtguarany/rtguarany/live.m3u8
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-ID="COMBATE SD" tvg-name="COMBATE SD" tvg-logo="https://s32.postimg.org/7yy5aszit/combate2.png" group-title="ESPORTES",COMBATE SD
+http://95.211.149.215:8081/look/combate/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/c300z1r6h/eimaxx2.png" group-title="ESPORTES",EI Maxx 2 HD
+http://enlsso9vfh.singularcdn.net.br/live/canal_11/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/4vtqpfqvt/esporte_interativo.png" group-title="ESPORTES", Esporte Interativo
+http://enlsso9vfh.singularcdn.net.br/live/canal_12/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://s26.postimg.org/9i41ypvax/ALL.png" group-title="ESPORTES", All Sport
+http://173.236.10.10:1935/dgrau/dgrau/chunklist_w549339512.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/6t0raqvf1/Fox_Sport.png" group-title="ESPORTES",Fox Sports
+http://link.theplatform.com/s/flac/pDqM__z_pkCD?mbr=true&feed=FoxPlay%20Sports%20Live%20Events&manifest=M3U&auth=lZ4PzsEq7QN8IlnWAxo20eCAcFCgoHBm&manifest=m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/6t0raqvf1/Fox_Sport.png" group-title="ESPORTES",Fox Sports 2
+http://link.theplatform.com/s/flac/8sGhDeM4tLBi?mbr=true&feed=FoxPlay%20Sports%20Live%20Events&manifest=M3U&auth=s09d3wXWk6R6UrmCA1pokWACEAD8MJCu&manifest=m3u8
+
+#EXTINF:-1 tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="ESPORTES",PREMIERE CLUBES
+http://95.211.149.215:8081/look/pfc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://salto.sp.gov.br/site/wp-content/uploads/2016/04/2016_04_12_esporte_para_todos_01.jpg" group-title="ESPORTES",ESPORTE PARA TODOS
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.sportmoviestv.com/wp-content/uploads/2016/07/Logo_Sports-Memory.jpg" group-title="ESPORTES",MEMORIES OF THE 2016 OLYMPIC GAMES
+http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_5_2264000.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-ID="FOX SD" tvg-name="FOX SD" tvg-logo="https://s32.postimg.org/7y1thriph/Fox.png" group-title="FILMES",FOX
+http://tv.ec.cx:1935/redecanais-stream-fox/myStream/chunklist.m3u8
+
+#EXTINF:-1 tvg-ID="TNT SD" tvg-name="TNT SD" tvg-logo="http://s21.postimg.org/wv3r1264z/tnt.png" group-title="FILMES",TNT
+http://tv.ec.cx:1935/redecanais-stream-tnt/myStream/chunklist.m3u8
+
+#EXTINF:-1 tvg-ID="UNIVERSAL CHANNEL HD" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="https://s31.postimg.org/6ktxs1ci3/universal.png" group-title="FILMES",UNIVERSAL CHANNEL
+http://tv.ec.cx:1935/redecanais-stream-universal/myStream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s1.postimg.org/xe3dzvs3z/Slide123.jpg" group-title="FILMES",Filmes
+http://stmv2.euroti.com.br:1935/mandruva/mandruva/live.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/jonovanpedia/images/1/17/Nickelodeon_logo.png/revision/latest?cb=20130727220234" group-title="INFANTIL",Nickelodeon
+http://tv.ec.cx:1935/redecanais-stream-nick/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/x27jhejrh/Cartoon_Network.png" group-title="INFANTIL",Cartoon Network
+http://95.211.149.215:8081/look/cartoon/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/o9v67go09/Discovery_Kids.png" group-title="INFANTIL",DISCOVERY KIDS
+http://5.79.68.138:8081/look/discoverykids/playlist.m3u8
+
+#EXTINF:-1 tvg-ID="DISNEY XD HD" tvg-name="DISNEY XD - SD" tvg-logo="http://s20.postimg.org/y2714ldop/Disney_XD.png" group-title="INFANTIL",DISNEY XD
+http://tv.ec.cx:1935/redecanais-stream-disneyxd/myStream/chunklist.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/07/canal_saude_assistir_ao_vivo.jpg" group-title="DOCUMENTARIOS",CANAL SAUDE
+http://gbbrlive2.sambatech.com.br:80/liveevent/CanalSaude_1d664cc5aa583759e0550c79d8e4e5b8/livestream/live.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/vaKVjp1G5oEnuoq0g7fsw-H3U6s=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/44/92/e3e879c57a76b70c1400f7d6cd9e.png" group-title="JORNALISMO",GLOBO NEWS
+http://5.79.68.138:8081/look/globonews/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh4.ggpht.com/VLAqGQWkvx6lt3UdBYuUjMGq3_lB2GzXi_MoKdZQKLLy1KzKlqrvfZ-d9rU-deudBA=w300" group-title="JORNALISMO",ABC NEWS
+http://abclive.abcnews.com:80/i/abc_live4@136330/index_1200_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/h8yq2oyUC0/ierpYhD0WZhPJKIw.png" group-title="JORNALISMO", BH News 
+http://edge.z1on.com:1935/1700/3125/3125-hotmedia.sdp/chunklist_w125301522.m3u8
+
+#EXTINF:-1 tvg-logo="http://s12.postimg.org/o61obsaq1/record_news.png" group-title="JORNALISMO", Record News (TO) 
+http://v1.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s12.postimg.org/o61obsaq1/record_news.png" group-title="JORNALISMO", Record News (TO) 2 
+http://v1.fabricahost.com.br/tvguara/tvguara/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://s12.postimg.org/o61obsaq1/record_news.png" group-title="JORNALISMO",RECORD NEWS
+http://187.49.86.238:10000/bysid/111
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0QfZnRjqogsheei9ZVbHYPb7RSWmn2q2mRwH6_SLqEi2t4-mZ" group-title="JORNALISMO",DW NEWS
+http://dwstream4-lh.akamaihd.net:80/i/dwstream4_live@131329/index_1_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/Hugo/euronews1.png" group-title="JORNALISMO",EURONEWS
+http://fr-par-iphone-1.cdn.hexaglobe.net:80/streaming/euronews_ewns/29-live.m3u8
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="CATOLICO",PORTAL GOSPEL TV
+http://s1.wsepanel.com:1935/lukfilm/lukfilm/live.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CATOLICO",REDE FAMILIA
+http://srv9.zoeweb.tv:1935/zw901/zw901_720p/live.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CATOLICO",TV APARECIDA
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CATOLICO",TV NOVO TEMPO
+http://stream.novotempo.com:1935/tv/tvnovotempo.smil/chunklist_b512000_slpor.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CATOLICO", Cancao Nova 1
+http://cancaonova-push-live.hls.adaptive.level3.net:80/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CATOLICO", Puc Tv
+http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CATOLICO", Santuario de Aparecida - Nicho 
+http://caikrondatacenter.com.br:1935/santuario_aparecida/canal2.stream/live.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CATOLICO", Tv Aparecida 
+http://caikrondatacenter.com.br:1935/tvaparecida/tvaparecida.stream/Paz.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CATOLICO", TVCI 
+http://wz5.dnip.com.br/tvci/tvci.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CATOLICO", Tv Evangelizar 
+rtmp://tvevangelizar01.crossdigital.com.br/evangelizar/tv
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="EVANGELICO", Filmes Gospel 
+http://stmv2.euroti.com.br:1935/tvmaceio/tvmaceio/live.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="EVANGELICO", Fonte Tv
+http://flash.softhost.com.br:1935/fonte/fontetv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="EVANGELICO", Gospel Music
+http://stmv2.euroti.com.br:1935/gmusic/gmusic/live.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="EVANGELICO", Igreja On Line TV
+http://195.22.19.179:1935/igronl/igronline3/live.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="EVANGELICO", IMPD Tv 
+http://impd.crossdigital.com.br:1935/impd/impd/live.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="EVANGELICO", Lbv
+http://api.new.livestream.com/accounts/15107153/events/4338771/live.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="EVANGELICO", Portal Gospel
+http://s1.wsepanel.com:1935/lukfilm/lukfilm/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="EVANGELICO", Rede Super
+http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="EVANGELICO", Sky Gospel
+http://s1.wsepanel.com:1935/lukfilm/lukfilm/live.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="EVANGELICO", Tv Boa Esperanca 
+http://stmv2.srvstm.com/16692/16692/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="EVANGELICO", Tv Cristo Vive
+http://stream300.overseebrasil.com.br:1935/live_apostolo_115/_definst_/live_apostolo_115/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="EVANGELICO", Tv Cristo Vive (OP 2) 
+http://stream300.overseebrasil.com.br:1935/live_apostolo_115/live_apostolo_115/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="EVANGELICO", Tv Filadelfia 
+http://104.156.60.74:1935/tvfiladelfia/tvfiladelfia/live.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="EVANGELICO", Tv Missao 
+rtmp://wse7.player.tv.br:1935/tvmissao/ playpath=tvmissao swfUrl=http://wse7.player.tv.br/assets/plugins/jwplayer-7.0.1/jwplayer.flash.swf pageUrl=http://www.tvmissao.com.br/
+
+#EXTINF:-1 tvg-logo="" group-title="EVANGELICO", Tv Novo Tempo
+http://stream.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_w128671060_b256000_slpor.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="EVANGELICO", Tv Novo Tempo 2
+http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="EVANGELICO", Tv Verdade
+http://ocatv.mcgi.me:1935/public/247_br/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="EVANGELICO", Vem e Ve Tv
+http://srv-vvtv.sisdera.com.br:1935/live/vvtv3/playlist.m3u8?MWINFO
+
+#EXTINF:-1 tvg-logo="" group-title="EVANGELICO", Vem e Ve Tv 1
+http://srv-vvtv.sisdera.com.br:1935/live/vvtv023/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="EVANGELICO", Vem e Ve Tv 2
+http://srv-vvtv.sisdera.com.br:1935/live/vvtv023/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="EVANGELICO", Vem e Ve Tv 3
+http://srv-vvtv.sisdera.com.br:1935/live/vvtv031/livestream.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="VH1 HD [Brazil]" tvg-logo="http://s11.postimg.org/t6l8d9k0j/VH1.png" group-title="TV Musicas",VH1 HD
+http://193.23.58.156:4025/udp/234.1.20.34:1234
+
+#EXTINF:-1 tvg-id="VH1 HD [Brazil]" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/9/9a/VH1_Classic_original.svg/revision/latest/scale-to-width-down/200?cb=20170423153026" group-title="TV Musicas",VH1 Classic
+http://193.23.58.156:4025/udp/234.1.20.35:1234
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/t1qbf9bZXVBD1Ti1YwKQrL7ZFBStacsU49WXfGfwPd337-t5BHyHHZnGzQ_kW8dMvg=h900" group-title="TV Musicas",NOSSA TV
+http://stmv1.srvstm.com:1935/tvcadm/tvcadm/live.m3u8
+
+#EXTINF:-1 tvg-id="Mix TV [Brazil]" tvg-logo="http://s20.postimg.org/jbmv7tfnx/Mix_Tv.png" group-title="TV Musicas",Mix TV
+http://abr.mixtv.upx.net.br/1352/myStream.sdp/chunklist_w447009698.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/866svgqkp/atomic.jpg" group-title="TV Musicas",Atomic
+rtmp://5.154.185.153/live/live.flv
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/aykuo57yl/MTV_Live_HD.png" group-title="TV Musicas",MTV Live HD
+http://mtvam.ru/hlsam/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/4i8o6fouh/DHING.jpg" group-title="TV Musicas",DJ Hits
+http://www.djing.com/tv/04.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/z71lgvtl9/virgin_tv.png" group-title="TV Musicas",Virgin
+http://wow01.105.net/live/virgin1/chunklist_w1531272998.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/92tgz8tql/kisstv.jpg" group-title="TV Musicas",Kiss
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/cwrim50gd/monte_carlo.png" group-title="TV Musicas",Radio Monte Carlo TV
+rtmp://fms.105.net:1935/live playpath=rmc1 swfUrl=live=1
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/y93lxk9s9/piktv.png" group-title="TV Musicas",Pik
+rtmp://fms.pik-tv.com/live/piktv2pik2tv
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/kqthtnn2h/retromusic.jpg" group-title="TV Musicas",Retro Music
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/hl8w3g4g9/Heart_TV1.jpg" group-title="TV Musicas",Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_398_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/5xeu8wfbd/radio105.png" group-title="TV Musicas",Radio 105 TV
+http://fms.105.net:1935/live/105Test1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/e5grtw77t/SUPERSONIC.jpg" group-title="TV Musicas",Watch Miami TV Music
+http://str103.setplex.net:1935/228//stv_online/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/kxbsahll5/electrosoundtv.png" group-title="TV Musicas",Electrosound
+http://www.electrosound.tv:1935/public/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/vy6xfidu1/DJing_Underground.jpg" group-title="TV Musicas",DJing Underground
+http://cdn.djing.com/tv/u-05.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/mu8if2c95/subgroups82_1.png" group-title="TV Musicas",Rit
+http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/eq0eabpu1/hardlife.png" group-title="TV Musicas",Hard Life
+http://stream.hardlife.tv:8134/hls-live/livepkgr/_definst_/liveevent/hl.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/lyc0zm2kp/FRESHTV.png" group-title="TV Musicas",Fresh Tv Music
+http://wse.planeta-online.tv:1935/live/channel_4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/vka6tnj49/AMAZING_LOGO_BRANCO3.jpg" group-title="TV Musicas",Amazing
+http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/6sakmf1xl/sitv_600x470.jpg" group-title="TV Musicas",SITV
+http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/6pqozkya1/1hd.jpg" group-title="TV Musicas",1HD Music
+http://80.250.191.10:1935/live/livestream1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/646bh7slp/HEAVYMETAL.png" group-title="TV Musicas",Heavy Metal Television
+rtmp://70.166.98.130:1935/hmtv/myStream
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/f0h3l5j7x/logo_mimusica.png" group-title="TV Musicas",Mi Musica HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/5h7erovpo/tico.jpg" group-title="TV Musicas",Tico Musica
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/w3jvgnzwt/VISUALRADIO.png" group-title="TV Musicas",Visual Radio TV
+http://wms.shared.streamshow.it/visualradio/visualradio_mobile/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV Musicas",1HD MUSIC
+http://80.250.191.10:1935/live/livestream1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV Musicas",DJ HITS
+http://www.djing.com/tv/04.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV Musicas",DREAM TV
+http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV Musicas",EU MUSIC BRASIL
+http://stmv1.hostgs.net:1935/jtvmilk/jtvmilk/live.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV Musicas",HEART TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_398_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV Musicas",M6 MUSIC
+http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV Musicas",ONE 0
+http://rtmp.one.by:1200
+
+#EXTINF:-1 tvg-logo="" group-title="TV Musicas",ONE 1 HD
+http://rtmp.one.by:1300
+
+#EXTINF:-1 tvg-logo="" group-title="TV Musicas",ONE 4 HD
+http://rtmp.one.by:2300
+
+#EXTINF:-1 tvg-logo="" group-title="TV Musicas",RADIO 105 TV
+http://fms.105.net:1935/live/105Test1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV Musicas",RADIO MONTE CARLO TV
+http://wow01.105.net/live/rmc1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV Musicas",RADIO ROBERTO CARLOS
+http://192.99.150.31:9137/stream
+
+#EXTINF:-1 tvg-logo="" group-title="TV Musicas",RETRO MUSIC HD
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV Musicas",VIRGIN TV
+http://wow01.105.net/live/virgin1/chunklist_w1531272998.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Kids
+http://192.99.150.31:9431/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",MPB
+http://192.99.150.31:8775/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Bossa Nova
+http://6d9a.webradio.upx.net.br:9974/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Forró
+http://192.99.150.31:9019/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Pagode
+http://6d9a.webradio.upx.net.br:9061/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Anos 2000
+http://6d9a.webradio.upx.net.br:9940/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Sertanejo
+http://192.99.150.31:9485/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Funk
+http://192.99.150.31:9089/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Rock Clássico
+http://192.99.150.31:9125/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Lounge
+http://6d9a.webradio.upx.net.br:9064/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Pop Rock
+http://6d9a.webradio.upx.net.br:8016/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Anos 70
+http://192.99.150.31:8241/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Anos 80
+http://192.99.150.31:8697/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Anos 90
+http://192.99.150.31:8056/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Românticas
+http://192.99.150.31:8962/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Rap Nacional
+http://192.99.150.31:8377/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Rock Brasil
+http://14923.live.streamtheworld.com/CIDADEROCKBRASILAAC
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Eletrônica
+http://192.99.150.31:9095/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Festa
+http://6d9a.webradio.upx.net.br:9070/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Gospel
+http://192.99.150.31:9101/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Hip Hop
+http://192.99.150.31:8721/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Jazz
+http://192.99.150.31:8042/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Axé
+http://192.99.150.31:8305/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Brega
+http://192.99.150.31:9007/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Música Clássica
+http://6d9a.webradio.upx.net.br:9970/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",New Rock
+http://6d9a.webradio.upx.net.br:8028/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Reggae
+http://192.99.150.31:8715/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Sertanejo Universitário
+http://192.99.150.31:9191/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Samba de Raiz
+http://stm19.shoutcast.melhorhospedagemweb.com:11138/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Pop Hits
+http://6d9a.webradio.upx.net.br:9046/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Metal
+http://6d9a.webradio.upx.net.br:9898/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Trilhas Sonoras
+http://6d9a.webradio.upx.net.br:9896/stream
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-yvBt5WYfG6c/Tzr83sXucuI/AAAAAAAAEbg/ZOSMhqFbbyM/s1600/RADIO_FM_O_DIA_RJ.png" group-title="Radios", FM O DIA TV
+http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-yvBt5WYfG6c/Tzr83sXucuI/AAAAAAAAEbg/ZOSMhqFbbyM/s1600/RADIO_FM_O_DIA_RJ.png" group-title="Radios", FM O DIA
+http://c2901-slbps-sambavideos.akamaized.net/radio/FMoDiaAudio_14d480346fa04ebcb4f03173f2dae707/livestream/chunklist_w1559633248.m3u8
+
+#EXTINF:-1 tvg-logo="http://mixfm.com.br/wp-content/themes/mix/assets/images/logo-facebook-share.png" group-title="Radios",Mix FM
+http://mixaac.crossradio.com.br:1100/live
+
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s126553q.png" group-title="Radios",Funk Neurotico
+http://stm15.liderstreaming.com.br:18184/stream
+
+#EXTINF:-1 tvg-logo="http://lh3.googleusercontent.com/MkpxPtyYEKWGqkIP6fdTQjwpSC0w-jWTkUFByDlWyo4Gecoi1eSj9OJPLI0ApOVS4pE=w300" group-title="Radios",Funk Mania Net
+http://199.233.234.10:17438/"
+
+#EXTINF:-1 tvg-logo="https://www.imusicaradios.com.br/go_ccfm/img/logo_cc.png?176d163dce6f3a78" group-title="Radios", Coca Cola FM
+http://ic.imusicaradios.com.br:8000/brasil.stream.http?url=tunein
+
+#EXTINF:-1 tvg-logo="http://www.radiomania.com.br/wp-content/themes/radiomania/imagens/mobile/logo.png" group-title="Radios", Radio Mania Volta Redonda
+http://radio.servercsi.com.br:8595/;
+
+#EXTINF:-1 tvg-logo="" group-title="Radios", CBN SP 90.5 FM - Estudio Ao Vivo
+http://media.sgr.globo.com:1935/VideoCBN/cbnsp1.sdp/live.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://www.exorbeo.com/wp-content/uploads/2016/01/wp-1452618158933.jpg" group-title="Adulto",Sex Zone
+http://tv.ec.cx:1935/redecanais-stream-hot/myStream/playlist.m3u8
