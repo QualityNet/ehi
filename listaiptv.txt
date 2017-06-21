@@ -1,0 +1,215 @@
+#EXTM3U
+ 
+#EXTINF:-1 tvg-logo="" group-title="",ELITE TV OPEN BETA 17/06 ATÉ 20/06
+https://www.youtube.com/watch?v=WtCXcSjhi7s
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TKDpmMY.png" group-title="NOVOS", Disney XD
+http://tv.ec.cx:1935/redecanais-stream-disneyxd/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NOVOS", Universal Channel  OFF
+http://tv.ec.cx:1935/redecanais-stream-universal/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M8Waema.png" group-title="NOVOS",Nick
+http://tv.ec.cx:1935/redecanais-stream-nick/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NOVOS",TNT
+http://tv.ec.cx:1935/redecanais-stream-tnt/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NOVOS",Fox [Brazil] OFF
+http://tv.ec.cx:1935/redecanais-stream-fox/myStream/chunklist_w993138924.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/j6qhA2K.png" group-title="NOVOS", SBT
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/j6qhA2K.png" group-title="NOVOS", SBT 
+http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream1/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/sCV7x4O.png" group-title="NOVOS", Rede TV
+http://evp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/c21RpSs.png" group-title="NOVOS", Globo News?
+http://173.236.10.10:1935/gvnews/gvnews/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/lK0kGIM.png" group-title="NOVOS",Record News 
+http://v1.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kAILZz1.png" group-title="NOVOS",  ESPN Brasil
+http://5.79.68.138:8081/look/espnbr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WUgWTYF.png" group-title="NOVOS",  Combate
+http://95.211.149.215:8081/look/combate/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U75BjDR.png" group-title="NOVOS", RETRÔ CARTOON ON
+http://stmv2.srvstm.com/cartoonr/cartoonr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zxx5wY3.png" group-title="NOVOS", Max Up HD
+http://duost.ddns.me:19790/live/DSK94cdypL/nnnrhnV1Nv/86.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2YaOLES.png" group-title="NOVOS",Fox Sports 720P
+http://5.79.68.138:8081/look/foxsport/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2YaOLES.png" group-title="NOVOS",Fox Sports 480P
+http://5.79.68.138:8081/look/foxsport/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bqYxKHx.png" group-title="NOVOS",Viva
+http://5.79.68.138:8081/look/foxsport/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VdeTMFd.png" group-title="NOVOS",Discovery Kids
+http://5.79.68.138:8081/look/discoverykids/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sSIE4SZ.png" group-title="NOVOS",Cartoon Network
+http://95.211.149.215:8081/look/cartoon/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wdgQnv8.png" group-title="NOVOS",Premiere Clubes
+http://95.211.149.215:8081/look/pfc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZDDuMk3.png" group-title="NOVOS",  EI Maxx 
+http://enlsso9vfh.singularcdn.net.br/live/canal_01/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NOVOS", EI Maxx 2
+http://enlsso9vfh.singularcdn.net.br/live/canal_11/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NOVOS", ESPN+
+http://mundogf.dyndns.tv:25461/live/RegisCabral(Repcell)/qxNLaSrcea/142.ts
+
+#EXTINF:-1 tvg-logo="" group-title="NOVOS", Telecine Action
+http://BelcoCanaisHdPremium@stmv2.srvstm.com/mandruva/mandruva/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NOVOS",Fox
+http://149.56.98.189:25461/live/Ricardopereira/QU45tdAMmu/95.ts
+#EXTINF:-1 tvg-logo="" group-title="NOVOS",AMC -[ON] SINAL OK
+http://duost.ddns.me:19790/live/MzoapkOrwL/4rT1zg8j2K/60.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/j6qhA2K.png" group-title="NOVOS",cinemax TESTE SINAL
+http://185.37.168.6:7284/udp/239.255.4.9:15101
+#EXTINF:-1 tvg-logo="" group-title="NOVOS",TCM [SINAL INSTÁVEL]
+http://brasil.listaiptv.com:25461/live/testesul/vVUglikaAu/1726.ts
+#EXTINF:-1 tvg-logo="" group-title="NOVOS",Paramount  [SINAL INSTÁVEL]
+http://brasil.listaiptv.com:25461/live/testesul/vVUglikaAu/1774.ts
+#EXTINF:-1 tvg-logo="" group-title="NOVOS",TBS [SINAL INSTÁVEL]
+http://brasil.listaiptv.com:25461/live/testesul/vVUglikaAu/1731.ts
+#EXTINF:-1 tvg-logo="" group-title="NOVOS",Megapix HD  [SINAL INSTÁVEL]
+http://158.69.24.208:8081/live/iva01/0101/475.ts
+#EXTINF:-1 tvg-logo="" group-title="NOVOS",MTV  [SINAL INSTÁVEL]
+http://158.69.24.208:8081/live/iva01/0101/620.ts
+#EXTINF:-1 tvg-logo="" group-title="NOVOS",BIS [SINAL INSTÁVEL]
+http://158.69.24.208:8081/live/iva01/0101/102.ts
+#EXTINF:-1 tvg-logo="" group-title="NOVOS",TNT  [SINAL INSTÁVEL]
+http://158.69.24.208:8081/live/iva01/0101/482.ts
+#EXTINF:-1 tvg-logo="" group-title="NOVOS",Multishow [SINAL INSTÁVEL]
+http://158.69.24.208:8081/live/iva01/0101/476.ts
+#EXTINF:-1 tvg-logo="" group-title="NOVOS",GNT [SINAL INSTÁVEL]
+http://158.69.24.208:8081/live/iva01/0101/157.ts
+#EXTINF:-1 tvg-logo="" group-title="NOVOS",Telecine PIPOCA [SINAL INSTÁVEL]
+http://158.69.24.208:8081/live/iva01/0101/1514.ts
+#EXTINF:-1 tvg-logo="" group-title="NOVOS",AXN [SINAL INSTÁVEL]
+http://158.69.24.208:8081/live/iva01/0101/447.ts
+#EXTINF:-1 tvg-logo="" group-title="NOVOS",TLC  [SINAL INSTÁVEL]
+http://158.69.24.208:8081/live/iva01/0101/644.ts
+#EXTINF:-1 tvg-logo="" group-title="NOVOS",Canal Sony [SINAL INSTÁVEL]
+http://158.69.24.208:8081/live/iva01/0101/507.ts
+#EXTINF:-1 tvg-logo="" group-title="NOVOS",Gloob [SINAL INSTÁVEL]
+http://158.69.24.208:8081/live/iva01/0101/951.ts
+#EXTINF:-1 tvg-logo="" group-title="NOVOS",SBT [SINAL INSTÁVEL]
+http://tv.paraibahost.com.br:1935/tvtambau/tvtambau/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NOVOS",É! [SINAL INSTÁVEL]
+http://158.69.24.208:8081/live/iva01/0101/868.ts
+#EXTINF:-1 tvg-logo="" group-title="NOVOS",AXN TESTE [SINAL INSTÁVEL]
+http://158.69.24.208:8081/live/iva01/0101/447.ts
+#EXTINF:-1 tvg-logo="" group-title="NOVOS",MegapixHD TESTE /ON/ [SINAL INSTÁVEL]
+http://158.69.24.208:8081/live/iva01/0101/475.ts
+#EXTINF:-1 tvg-logo="" group-title="NOVOS",SPACE TESTE DE SINAL /ON/ [SINAL INSTÁVEL]
+http://158.69.24.208:8081/live/iva01/0101/479.ts
+#EXTINF:-1 tvg-logo="" group-title="NOVOS", TELECINE PIPOCA NOVO BETA SINAL [SINAL INSTÁVEL]
+http://158.69.24.208:8081/live/iva01/0101/486.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NOVOS",TESTE DE SINAL 01 BETA [SINAL INSTÁVEL]
+http://158.69.24.208:8081/live/iva01/0101/486.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NOVOS",Telecine Action [SINAL INSTÁVEL]
+http://158.69.24.208:8081/live/iva01/0101/483.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NOVOS",Telecine fun [SINAL INSTÁVEL]
+ http://158.69.24.208:8081/live/iva01/0101/485.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NOVOS",Telecine Pipoca   [SINAL INSTÁVEL]
+http://158.69.24.208:8081/live/iva01/0101/486.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NOVOS",Telecine Premium   [SINAL INSTÁVEL]
+http://158.69.24.208:8081/live/iva01/0101/487.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NOVOS",Telecin Touch   [SINAL INSTÁVEL]
+http://158.69.24.208:8081/live/iva01/0101/488.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NOVOS",AXN - [SINAL INSTÁVEL]
+http://158.69.24.208:8081/live/iva01/0101/447.ts
+#EXTINF:-1 tvg-logo="" group-title="NOVOS",MEGAPIX [SINAL INSTÁVEL]
+http://158.69.24.208:8081/live/iva01/0101/475.ts
+#EXTINF:-1 tvg-logo="" group-title="NOVOS",SPACE [SINAL INSTÁVEL]
+http://158.69.24.208:8081/live/iva01/0101/479.ts?
+ 
+ 
+
+ 
+ 
+#EXTINF:-1 tvg-logo="" group-title="HD 720p ABERTOS", TV CULTURA PARAÍBA HD 720p
+http://177.73.84.49/hls/live/live.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="HD 720p ABERTOS", SBT PARAÍBA - TV TAMBAÚ HD 720p
+http://tv.paraibahost.com.br:1935/tvtambau/tvtambau/playlist.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="HD 720p ABERTOS,TV ESCOLA HD
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="HD 720p ABERTOS", TV JUSTIÇA HD 720p
+http://www.tvmpf.mpf.mp.br:1935/event549/event549.stream_720p/playlist.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="HD 720p ABERTOS", AMAZON SAT HD 720p
+http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="HD 720p ABERTOS", TVE BAHIA HD - TV BRASIL
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="HD 720p ABERTOS", RECORD NEWS HD ES
+http://stmv4.srvstm.com/recordnewses/recordnewses/playlist.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="HD 720p ABERTOS", DANCE TV HD 720p
+http://163.172.217.221:1935/tv/dance_tv/playlist.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="HD 720p ABERTOS", SESC TV HD 720p
+http://api.new.livestream.com/accounts/16991778/events/6670101/live.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="HD 720p ABERTOS", GAME SHOW TV HD 720p
+http://cdn-01.bonus-tv.ru/btv/gameshow/type/user/devname/LG-SmartTV/devid/LG-1465295888/eol/20200101T0000/hash/87f43f0ab86fbdef780f16689b6318d079ae8d46/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HD 720p ABERTOS", CANAL DE LAS ESTRELLAS HD 720p
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HD 720p ABERTOS", LIVRE TV HD 720p
+http://172.93.110.130:1935/livretv/livretv/playlist.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="HD 720p ABERTOS", TV FAAP HD 720p
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u80
+#EXTINF:-1 tvg-logo="" group-title="HD 720p ABERTOS", CBN SP HD 720p
+http://media.sgr.globo.com:1935/VideoCBN/cbnsp1.sdp/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HD 720p ABERTOS",Estudio 102 FM Itajaí - SC HD 720p
+http://streaming2.aquisolucoes.com.br:1935/radio102video/aovivo/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HD 720p ABERTOS",Estudio 90.5 FM São Paulo - SP HD 720p
+http://media.sgr.globo.com:1935/VideoCBN/cbnsp1.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HD 720p ABERTOS",Novo Templo da Igreja da Graça - SP HD 1080p
+http://flash1.crossdigital.com.br:1935/camongrace/camongrace.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HD 720p ABERTOS",RPTV HD 720p
+http://mediaserver1.estadovirtual.net:1935/c2187ev2207/aovivo/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HD 720p ABERTOS",TVT HD 720p
+http://slrp.sambavideos.sambatech.com/liveevent/tvtabr_56fc38e9793ca9941f5203fab6e01263/livestream3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HD 720p ABERTOS",TV FAAP HD 720p
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HD 720p ABERTOS",TV INES HD 720p
+http://liveabr2.sambatech.com.br/abr/acerpTvINESABR_d360fbbfbf3e5e59a31cf89ec45eb3dc/livestreamabr.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HD 720p ABERTOS",Amazon Sat HD 720p
+http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/playlist.m3u8
+#EXTINF:-1 tvg-id="SBT [Brazil]" tvg-logo="" group-title="HD 720p ABERTOS",SBT PB HD 720p
+http://tv.paraibahost.com.br:1935/tvtambau/tvtambau/playlist.m3u8
+#EXTINF:-1 tvg-id="TV Cultura [Brazil]" tvg-logo="" group-title="HD 720p ABERTOS",TV Cultura PR HD 720p
+http://wowza.catve.com.br:1935/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HD 720p ABERTOS",TVE Bahia HD 720p
+http://200.187.60.190:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HD 720p ABERTOS",Horse Brasil HD 720p
+http://490636978.r.worldcdn.net/490636978/_definst_//horsebrasil1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HD 720p ABERTOS",All Sports BR HD 720p
+http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
+#EXTINF:-1 tvg-id="Record News [Brazil]" tvg-logo="" group-title="HD 720p ABERTOS",Record News HD 720P
+http://stmv4.srvstm.com:1935/recordnewses/recordnewses/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HD 720p ABERTOS",TV Clima HD 720p
+http://stmv1.srvstm.com:1935/tvcadm/tvcadm/playlist.m3u8
